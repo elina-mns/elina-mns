@@ -8,13 +8,13 @@ I am looking for iOS development opportunities in Canada.
 
 <a href="https://www.linkedin.com/in/elina-mns/" target="_blank">https://www.linkedin.com/in/elina-mns/</a> - LinkedIn
 
-<a href="https://github.com/elina-mns/Chat-App" target="_blank">https://github.com/elina-mns/Chat-App/</a> - A personal chat app project that sends messages and GIPHY
+<a href="https://github.com/elina-mns/Chat-App" target="_blank">https://github.com/elina-mns/Chat-App/</a> - A personal chat app project that sends messages and GIPHY 💭 
 
-<a href="https://github.com/elina-mns/Hacker-News" target="_blank">https://github.com/elina-mns/Hacker-News</a>  - My recent SwiftUI Hacker News App
+<a href="https://github.com/elina-mns/Hacker-News" target="_blank">https://github.com/elina-mns/Hacker-News</a>  - My recent SwiftUI Hacker News App 🗞 
 
 ## Technologies that I work with
 
-These are the technologies I've worked with:
+These are the technologies I've worked with: 🛠
 * Swift
 * SwiftUI 
 * Git
@@ -22,7 +22,7 @@ These are the technologies I've worked with:
 * Firebase
 * Postman 
 
-Frameworks that I used in my projects: 
+Frameworks that I used in my projects: 📲 🔑
 
 * UIKit
 * MessageKit
