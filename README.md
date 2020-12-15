@@ -10,6 +10,8 @@ I am looking for iOS development opportunities in Canada.
 
 <a href="https://github.com/elina-mns/Chat-App" target="_blank">https://github.com/elina-mns/Chat-App/</a> - A personal chat app project that sends messages and GIPHY
 
+<a href="https://github.com/elina-mns/Hacker-News" target="_blank">https://github.com/elina-mns/Hacker-News</a>  - My recent SwiftUI Hacker News App
+
 ## Technologies that I work with
 
 These are the technologies I've worked with:
