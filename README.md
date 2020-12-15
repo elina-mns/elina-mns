@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi, I'm Elina!👋
 
-<!--
-**elina-mns/elina-mns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to code  and create meaningful projects. I also like music equipment, nature, philosophy and art. I am looking for iOS development opportunities in Canada. 
 
-Here are some ideas to get you started:
+🥸🖐🏻 🎧 💻 📖📚  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/elina-mns/" target="_blank">https://www.linkedin.com/in/elina-mns/</a> - LinkedIn
+
+<a href="https://github.com/elina-mns/Chat-App" target="_blank">https://github.com/elina-mns/Chat-App/</a> - A personal chat app project that sends messages and GIPHY
+
+## Technologies that I work with
+
+These are the technologies I've worked with:
+* Swift
+* SwiftUI 
+* Git
+* REST, GraphQL
+* Firebase
+* Postman 
+
+Frameworks that I used in my projects: 
+
+* UIKit
+* MessageKit
+* MapKit
+* Firebase, FirebaseAuth
+* FacebookLogin, GoogleSignIn 
+* JGProgressHUD
+* GiphyUISDK, GiphyCoreSDK
