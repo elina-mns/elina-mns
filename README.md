@@ -1,6 +1,7 @@
 # Hi, I'm Elina!👋
 
-I like to code  and create meaningful projects. I also like music equipment, nature, philosophy and art. I am looking for iOS development opportunities in Canada. 
+I like to code  and create meaningful projects. I also like to discover new music equipment, I appreciate nature, philosophy and art. 
+I am looking for iOS development opportunities in Canada. 
 
 🥸🖐🏻 🎧 💻 📖📚  
 
