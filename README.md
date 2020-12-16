@@ -12,6 +12,8 @@ I am looking for iOS development opportunities in Canada.
 
 <a href="https://github.com/elina-mns/Hacker-News" target="_blank">https://github.com/elina-mns/Hacker-News</a>  - My recent SwiftUI Hacker News App 🗞 
 
+Besides, at this point I practiced 2 weather apps, 2 chat apps, worked with animation and maps. 
+
 ## Technologies that I work with
 
 These are the technologies I've worked with: 🛠
