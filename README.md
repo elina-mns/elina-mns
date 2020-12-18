@@ -20,7 +20,7 @@ These are the technologies I've worked with: 🛠
 * Swift
 * SwiftUI 
 * Git
-* REST, GraphQL
+* REST, SQL, Realm Studio
 * Firebase
 * Postman 
 
@@ -33,3 +33,4 @@ Frameworks that I used in my projects: 📲 🔑
 * FacebookLogin, GoogleSignIn 
 * JGProgressHUD
 * GiphyUISDK, GiphyCoreSDK
+* CoreData, RealmSwift
