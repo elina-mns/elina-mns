@@ -34,3 +34,4 @@ Frameworks that I used in my projects: 📲 🔑
 * JGProgressHUD
 * GiphyUISDK, GiphyCoreSDK
 * CoreData, RealmSwift
+* CoreML, Vision
