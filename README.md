@@ -8,11 +8,15 @@ I am looking for iOS development opportunities in Canada.
 
 <a href="https://www.linkedin.com/in/elina-mns/" target="_blank">https://www.linkedin.com/in/elina-mns/</a> - LinkedIn
 
+Projects: 
+
+<a href="https://github.com/elina-mns/Shopping-list" target="_blank">https://github.com/elina-mns/Shopping-list</a> - A shopping list app
+
 <a href="https://github.com/elina-mns/Chat-App" target="_blank">https://github.com/elina-mns/Chat-App/</a> - A personal chat app project that sends messages and GIPHY 💭 
 
 <a href="https://github.com/elina-mns/Hacker-News" target="_blank">https://github.com/elina-mns/Hacker-News</a>  - My recent SwiftUI Hacker News App 🗞 
 
-Besides, at this point I practiced 2 weather apps, 2 chat apps, worked with animation and maps, practiced other projects using SwiftUI
+Besides, at this point I practiced 2 weather apps, 2 chat apps, worked with animation, maps, practiced other projects using SwiftUI, discovered Machine Learning and Augmented reality frameworks. 
 
 ## Technologies that I work with
 
