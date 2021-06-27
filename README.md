@@ -14,7 +14,7 @@ Projects:
 
 <a href="https://github.com/elina-mns/Shopping-list" target="_blank">https://github.com/elina-mns/Shopping-list</a> - A shopping list app
 
-<a href="https://github.com/elina-mns/Chat-App" target="_blank">https://github.com/elina-mns/Chat-App/</a> - A personal chat app project that sends messages and GIPHY 💭 
+<a href="https://github.com/elina-mns/Businesses-Nearby" target="_blank">https://github.com/elina-mns/Chat-App/</a> - The app uses the Yelp API to get nearby Restaurants and Grocery Stores to the users location.
 
 <a href="https://github.com/elina-mns/Hacker-News" target="_blank">https://github.com/elina-mns/Hacker-News</a>  - My recent SwiftUI Hacker News App 🗞 
 
