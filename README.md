@@ -12,7 +12,7 @@ My hobby is to discover new music equipment, I also appreciate nature, philosoph
 
 Projects: 
 
-<a href="https://github.com/elina-mns/Shopping-list" target="_blank">https://github.com/elina-mns/Shopping-list</a> - A shopping list app
+<a href="https://github.com/elina-mns/Chat-App" target="_blank">https://github.com/elina-mns/Chat-App</a> - A chat app where user logs in with Google or Facebook account
 
 <a href="https://github.com/elina-mns/Businesses-Nearby" target="_blank">https://github.com/elina-mns/Businesses-Nearby/</a> - The app uses the Yelp API to get nearby Restaurants and Grocery Stores to the users location.
 
