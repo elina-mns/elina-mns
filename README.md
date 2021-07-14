@@ -1,6 +1,6 @@
 # Hi, I'm Elina!👋
 
-I am an iOS developer working in a start-up in Toronto, ON. I worked on multiple projects, handling deadlines, interacting with clients and planning technical implementations. My daily tasks include developing complex UI, building user interaction logic with an application, storing/caching data in CoreData, Realm. 
+I am an iOS developer with experience working in a start-up in Toronto, ON. I worked on multiple projects handling deadlines, interacting with clients and planning technical implementations. My daily tasks include developing complex UI, building user interaction logic with an application, storing/caching data in CoreData, Realm. 
 
 My skills include: Xcode, Swift, Java, SwiftUI, Git, Github, Jira, Postman, CoreData, Realm, CocoaPods.
 
