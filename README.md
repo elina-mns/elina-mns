@@ -16,6 +16,8 @@ Projects:
 
 <a href="https://github.com/elina-mns/Businesses-Nearby" target="_blank">https://github.com/elina-mns/Businesses-Nearby/</a> - The app uses the Yelp API to get nearby Restaurants and Grocery Stores to the users location.
 
+<a href="https://github.com/elina-mns/SwiftUI-Practice" target="_blank">https://github.com/elina-mns/SwiftUI-Practice</a> - SwiftUI App with products and detailed view
+
 <a href="https://github.com/elina-mns/Hacker-News" target="_blank">https://github.com/elina-mns/Hacker-News</a>  - My recent SwiftUI Hacker News App 🗞 
 
 Besides, at this point I practiced 2 weather apps, 2 chat apps, worked with animation, maps, practiced other projects using SwiftUI, discovered Machine Learning and Augmented reality frameworks. 
