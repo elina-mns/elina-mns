@@ -24,7 +24,7 @@ Besides, at this point I practiced 2 weather apps, 2 chat apps, worked with anim
 
 ## Technologies that I work with
 
-These are the technologies I've worked with: 🛠
+ 🛠
 * Swift
 * SwiftUI 
 * Git
@@ -32,7 +32,7 @@ These are the technologies I've worked with: 🛠
 * Firebase
 * Postman 
 
-Frameworks that I used in my projects: 📲 🔑
+Frameworks I used in my projects: 📲 🔑
 
 * UIKit
 * MessageKit
