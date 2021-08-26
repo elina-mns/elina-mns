@@ -12,6 +12,8 @@ My hobby is to discover new music equipment, I also appreciate nature, philosoph
 
 Projects: 
 
+<a href="https://apps.apple.com/ca/app/ecee/id1545417824" target="_blank">https://apps.apple.com/ca/app/ecee/id1545417824</a> - Recently Published App from my work experience
+
 <a href="https://github.com/elina-mns/Chat-App" target="_blank">https://github.com/elina-mns/Chat-App</a> - A chat app where user logs in with Google or Facebook account
 
 <a href="https://github.com/elina-mns/Businesses-Nearby" target="_blank">https://github.com/elina-mns/Businesses-Nearby/</a> - The app uses the Yelp API to get nearby Restaurants and Grocery Stores to the users location.
