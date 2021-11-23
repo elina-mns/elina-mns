@@ -10,9 +10,14 @@ My hobby is to discover new music equipment, I also appreciate nature, philosoph
 
 <a href="https://www.linkedin.com/in/elina-mns/" target="_blank">https://www.linkedin.com/in/elina-mns/</a> - LinkedIn
 
-Projects: 
+Projects
 
-<a href="https://apps.apple.com/ca/app/ecee/id1545417824" target="_blank">https://apps.apple.com/ca/app/ecee/id1545417824</a> - Recently Published App from my work experience
+I have 2 published apps on App Store from my working experience: 
+<a href="https://apps.apple.com/ca/app/ecee/id1545417824" target="_blank">https://apps.apple.com/ca/app/ecee/id1545417824</a> - Wedding and Party Planning App
+
+<a href="https://apps.apple.com/ca/app/sinter/id1594314498" target="_blank">https://apps.apple.com/ca/app/ecee/id1545417824</a> - Monitoring App
+
+My personal projects: 
 
 <a href="https://github.com/elina-mns/Chat-App" target="_blank">https://github.com/elina-mns/Chat-App</a> - A chat app where user logs in with Google or Facebook account
 
