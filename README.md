@@ -1,6 +1,6 @@
 # Hi, I'm Elina!👋
 
-I am an iOS developer based in Toronto, ON. Currently I am working at TD bank. I've worked with multiple projects handling deadlines, interacting with clients and planning technical implementations. My daily tasks included developing complex UI, building user interaction logic with an application, storing/caching data in CoreData, Realm. 
+I am an iOS developer based in Toronto, ON. Currently I work at TD bank. I've worked with multiple projects handling deadlines, interacting with clients and planning technical implementations. My daily tasks included developing complex UI, building user interaction logic with an application, storing/caching data in CoreData, Realm. 
 
 My skills include: Xcode, Swift, Java, SwiftUI, Git, Github, Jira, Postman, CoreData, Realm, CocoaPods.
 
