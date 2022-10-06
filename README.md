@@ -1,7 +1,7 @@
 # Hi, I'm Elina!👋
 
 I am an iOS developer based in Toronto, ON. Currently I work at TD bank. 
-My daily tasks include developing complex UI, writing Unit tests, applying MVVM pattern, refactoring and interacting with team using Agile approach. 
+My daily tasks include developing complex UI, writing Unit tests, applying MVVM pattern, refactoring code structure and interacting with team using Agile approach. 
 
 My skills include: Xcode, Swift, SwiftUI, Git, MVVM.
 
