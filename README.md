@@ -17,8 +17,6 @@ I have 2 published apps on App Store from my working experience:
 
 My personal projects: 
 
-<a href="https://github.com/elina-mns/Chat-App" target="_blank">https://github.com/elina-mns/Chat-App</a> - A chat app where user logs in with Google or Facebook account
-
 <a href="https://github.com/elina-mns/Businesses-Nearby" target="_blank">https://github.com/elina-mns/Businesses-Nearby/</a> - The app uses the Yelp API to get nearby Restaurants and Grocery Stores to the users location.
 
 <a href="https://github.com/elina-mns/Hacker-News" target="_blank">https://github.com/elina-mns/Hacker-News</a>  - My recent SwiftUI Hacker News App 🗞 
