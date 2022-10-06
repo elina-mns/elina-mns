@@ -33,7 +33,8 @@ Besides, at this point I practiced 2 weather apps, 2 chat apps, worked with anim
 * Swift
 * SwiftUI 
 * Git
-* REST, SQL, Realm Studio
-* Firebase
+* SourceTree, Bitbucket, Github
+* MVVM
+* Jenkins 
 
 
