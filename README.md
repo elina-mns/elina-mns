@@ -3,7 +3,7 @@
 I am an iOS developer based in Toronto, ON. Currently I work at TD bank. 
 My daily tasks include developing complex UI, writing Unit tests, applying MVVM pattern, refactoring code structure and interacting with team using Agile approach. 
 
-My skills include: Xcode, Swift, SwiftUI, Git, MVVM.
+My skills include: Agile, Xcode, Swift, SwiftUI, Git, Jira, Charles, Jenkins, Invision, Fidma, Zeplin, Postman, CoreData.
 
 <a href="https://www.linkedin.com/in/elina-mns/" target="_blank">https://www.linkedin.com/in/elina-mns/</a> - LinkedIn
 
@@ -22,15 +22,5 @@ My personal projects:
 <a href="https://github.com/elina-mns/Hacker-News" target="_blank">https://github.com/elina-mns/Hacker-News</a>  - My recent SwiftUI Hacker News App 🗞 
 
 Besides, at this point I practiced 2 weather apps, 2 chat apps, worked with animation, maps, practiced other projects using SwiftUI, discovered Machine Learning and Augmented reality frameworks. 
-
-## Technologies that I work with
-
- 🛠
-* Swift
-* SwiftUI 
-* Git
-* SourceTree, Bitbucket, Github
-* MVVM
-* Jenkins 
 
 
