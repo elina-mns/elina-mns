@@ -1,11 +1,9 @@
 # Hi, I'm Elina!👋
 
-I am an iOS developer based in Toronto, ON. Currently I work at TD bank. 
+I am an iOS developer based in Toronto, ON.
 My daily tasks include developing complex UI, writing Unit tests, applying MVVM pattern, refactoring code structure and interacting with team using Agile approach. 
 
 My skills include: Agile, Xcode, Swift, SwiftUI, Git, Jira, Charles, Jenkins, Invision, Fidma, Zeplin, Postman, CoreData.
-
-<a href="https://www.linkedin.com/in/elina-mns/" target="_blank">https://www.linkedin.com/in/elina-mns/</a> - LinkedIn
 
 Projects
 
